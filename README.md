@@ -1,27 +1,19 @@
-# Thanks For Stopping By 🎉🎉🎉
+# Hello
 
-I'm Nate Dimick and here's everything that I want you to now about me:
+I'm Nate Dimick and I:
 
-* 🎓 I graduated from Brandeis University 🦉 in May 2020 with a B.S. Cum Laude in Computer Science 💻 and minor in Economics 💸
-* 🤵 My Pronouns are He/Him/His
-* 🐍 I really like Python
-* ☕ I'm pretty good with Java, JavaScript and C++ too
-* 🦍 The language I don't know but would like to learn is Go
-* 🤖 I like robots and I've worked on numerous projects in the [Brandeis Autonomous Robotics Lab](https://github.com/campusrover)
-* 📜 One of those projects even produced a [research paper!](https://arxiv.org/abs/2007.09053)
-* 🌞 I've worked at a summer camp called Horizons for years and right now I'm working on a web app in Flask called [Horizons Office Homepage](https://github.com/NateDimick/HorizonsOfficeHomepage) to make their paperwork easier and faster!
-* 🧲 I'm attracted to projects that help me learn new skills and help solve nagging problems
-* 🌎 If you're reading this, why not check out my protfolio [website?](https://natedimick.github.io)
-* 🐦 Sometimes I say funny or thoughtful things on [Twitter](https://twitter.com/NateDimick)
-* 🤝 I'm looking for a job! If I seem like a good fit for you or your colleague, drop me a line on [LinkedIn](https://linkedin.com/in/NateDimick)
+1. Am from a small town in NH.
+2. Am a Brandeis University Graduate.
+3. Am looking for a Job.
+4. Have lots of experience working with Python.
+5. Can build web apps in Flask and NodeJS.
+6. Am familar with databases like PostGreSQL, MongoDB, Redis and SQLite.
+7. I love working in teams
+  * I can be a leader or a follower
+  * I'll be supportive regardless
+  * I care about my teammates wellbeing as well as their productivity.
+8. Have also worked with robotics using ROS and also RobotC for Vex.
+9. Am a passionate and quick learner, dedicated to what I do. 
+10. I'm really good at making lists and cracking jokes sometimes. 
 
-## ⚡ Other Fun Facts ⚡
-
-* 🍀 I'm a huge Celtics fan
-* 🌊 I've been a Red Cross certified Lifeguard since 2015
-* 🎟 I won a sweepstakes once
-* 🎲 I'll play any board game
-* 🦆 I know two facts about ducks, and they're both false
-* 🏀 I'm a four square god
-
-![foursquare gif](https://media.giphy.com/media/dyikyEVCWOakxCamGd/giphy.gif)
+Check out my repos and feel free to see my [LinkedIn](https://linkedin.com/in/natedimick)
