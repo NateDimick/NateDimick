@@ -1,19 +1,17 @@
-# Hello
+# I'm Nate and Sometimes I Actually Write Code
 
-I'm Nate Dimick and I:
+I'm a software engineer that uses Github for all of my non-professional endeavors - short scripting projects, basic web apps, and other sharable tidbits.
 
-1. Am from a small town in NH.
-2. Am a Brandeis University Graduate.
-3. Am looking for a Job.
-4. Have lots of experience working with Python.
-5. Can build web apps in Flask and NodeJS.
-6. Am familar with databases like PostGreSQL, MongoDB, Redis and SQLite.
-7. I love working in teams
-  * I can be a leader or a follower
-  * I'll be supportive regardless
-  * I care about my teammates wellbeing as well as their productivity.
-8. Have also worked with robotics using ROS and also RobotC for Vex.
-9. Am a passionate and quick learner, dedicated to what I do. 
-10. I'm really good at making lists and cracking jokes sometimes. 
+A run down of what I've done on Github:
+* Built applications for autonomous robots with Capusrover at Brandeis University
+* Collaberated with Code For UV to put together web apps for the Upper Valley of Vermont and New Hampshire
+* Hacked together some fun side projects of my own
 
-Check out my repos and feel free to see my [LinkedIn](https://linkedin.com/in/natedimick)
+I like to work with:
+* 🐍 Python, Flask, ROS
+* 💾 PostgreSQL, SQLite, MongoDB and Redis
+* 🌐 Javascript, NodeJS
+* 🤖 C++, Arduino
+I also work professionally with ☕ Java + Groovy + Spring, and I enjoy learning new languages and applying them in fun new projects!
+
+Check out my repos and feel free to see my [LinkedIn](https://linkedin.com/in/natedimick) or visit my [website](https://natedimick.com)
