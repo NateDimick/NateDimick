@@ -9,8 +9,9 @@ A run down of what I've done on Github:
 
 I like to work with:
 * 🐍 Python, Flask, ROS
+* 🦫️ Go, Gin, Wails
 * 💾 PostgreSQL, SQLite, MongoDB and Redis
-* 🌐 Javascript, NodeJS
+* 🌐 Javascript, NodeJS, Svelte
 * 🤖 C++, Arduino
 I also work professionally with ☕ Java + Groovy + Spring, and I enjoy learning new languages and applying them in fun new projects!
 
