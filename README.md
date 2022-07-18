@@ -16,3 +16,9 @@ I like to work with:
 I also work professionally with ☕ Java + Groovy + Spring, and I enjoy learning new languages and applying them in fun new projects!
 
 Check out my repos and feel free to see my [LinkedIn](https://linkedin.com/in/natedimick) or visit my [website](https://natedimick.com)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NateDimick&layout=compact&theme=gotham)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=NateDimick&show_icons=true&theme=gotham)
+
+
