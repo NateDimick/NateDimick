@@ -1,12 +1,16 @@
 # I'm Nate and Sometimes I Actually Write Code
 
+... And when I do, it's either on company time or it ends up here.
+
 Key descriptors about me:
 
 * Wannabe Gopher 
   * ![party gopher](https://cultofthepartyparrot.com/guests/hd/partygopher.gif)
+  * [(Cult of the Party Parrot Follower)](https://cultofthepartyparrot.com/)
 * Primarily a backend engineer, but 🧡 Svelte + Wails 🐉
 * Think Java is icky
 * Interested in ml, but never give myself enough time to sink my teeth in, also not scared of chatgpt
+* I have a little portfolio site with some other factoids: [natedimick.com](https://natedimick.com)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NateDimick&layout=compact&theme=gotham&hide=html)
 
