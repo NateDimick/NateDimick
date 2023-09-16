@@ -8,7 +8,10 @@ Key descriptors about me:
   * ![party gopher](https://cultofthepartyparrot.com/guests/hd/partygopher.gif)
   * [(Cult of the Party Parrot Follower)](https://cultofthepartyparrot.com/)
 * Primarily a backend engineer, but 🧡 Svelte + Wails 🐉
-* Think Java is icky
+* I enjoy challenges and mastering new technologies
+* I think Java is icky
+* I think Python is icky without type hints
+* I prefer TS over JS but hate how complicated the build configs are
 * Interested in ml, but never give myself enough time to sink my teeth in, also not scared of chatgpt
 * I have a little portfolio site with some other factoids: [natedimick.com](https://natedimick.com)
 
